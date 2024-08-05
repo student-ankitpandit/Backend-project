@@ -1,3 +1,3 @@
-# backend project
+# Backend project
 
-A first project in backend
+A first project in the backend
